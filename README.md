@@ -2,4 +2,4 @@
 ERP + Django + Python
 
 ERP made for general purposes 
-It's a practice for increase my abilities with Django
+It's a practice for increasing my abilities with Django.
